@@ -1,0 +1,254 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ffffff;
+    height: 100vh;
+}
+
+.main {
+    padding-top: 40px;
+    margin-left: 650px;
+
+
+}
+
+.child {
+    height: 870px;
+    width: 650px;
+    background-color: #0b0b17;
+    position: relative;
+    overflow: hidden;
+
+}
+
+/* .box{
+    height: 100px;
+    width: 100px;
+    background-color: #0b0b17;
+    border: solid 5px white;
+    border-radius: 50%;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+} */
+.box h5 {
+    color: #fff;
+    font-size: 26px;
+    margin-top: 18px;
+    margin-left: 20px;
+}
+
+.box h2 {
+    color: #fff;
+    font-size: 29px;
+    margin-top: 10px;
+    margin-left: 19px;
+}
+
+.img1 {
+    height: 80px;
+    width: 80px;
+    margin-top: 20PX;
+    margin-left: 20px;
+}
+
+.img2 {
+    height: 350px;
+    width: 350px;
+    margin-top: -40px;
+    margin-left: 150px;
+}
+
+.box1 {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #0b0b17;
+    border: #860110 solid 5px;
+    position: absolute;
+    top: 130px;
+    left: 67%;
+}
+
+.img3 {
+    height: 130px;
+    width: 130px;
+    position: absolute;
+    top: 32%;
+    left: 14%;
+}
+
+.box3 {
+    height: 60px;
+    width: 60px;
+    border: solid 5px #860110;
+    background-color: #0b0b17;
+    border-radius: 50%;
+    position: absolute;
+    top: 23%;
+    left: 19%;
+}
+
+.box2 {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: #860110;
+    position: absolute;
+    top: 43%;
+    left: 33%;
+}
+
+.box h1 {
+    color: #fff;
+    position: absolute;
+    top: 13%;
+    left: 29%;
+    font-size: 40px;
+    text-transform: uppercase;
+    color: #d9ad2a;
+    font-weight: 800;
+    font-family: "Open Sans";
+    text-align: center;
+}
+
+.box p {
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: 400;
+    font-style: italic;
+    font-family: "Open Sans";
+    position: absolute;
+    top: 25%;
+    left: 34%;
+}
+
+.box h3 {
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Open Sans";
+    position: absolute;
+    top: 30%;
+    left: 32%;
+}
+
+.box4 {
+    height: 20px;
+    width: 150px;
+    position: absolute;
+    top: 34%;
+    left: 39%;
+}
+
+.box h6 {
+    color: #fff;
+    position: absolute;
+    top: 39%;
+    left: 38%;
+    font-size: 16px;
+    color: #ffffff;
+    font-style: italic;
+    font-family: "Open Sans";
+    text-align: center;
+}
+
+.box5 {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: #860110;
+    top: 10%;
+    left: 80%;
+}
+
+.box6 {
+    height: 30px;
+    width: 30px;
+    border: solid 5px #d9ad2a;
+    position: absolute;
+    top: 8%;
+    left: 79%;
+    border-radius: 50%;
+}
+
+.box7 {
+    height: 500px;
+    width: 650px;
+    position: absolute;
+    top: 10%;
+}
+
+.img4 {
+    height: 450px;
+    width: 400px;
+    left: 20%;
+    position: absolute;
+    top: 48%;
+}
+
+.img5 {
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    top: 135%;
+    left: 19%;
+    z-index: 1;
+}
+
+.box8 {
+    height: 20px;
+    width: 20px;
+    color: #d9ad2a;
+    position: absolute;
+    top: 146%;
+    left: 35%;
+    z-index: 1;
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.mkl {
+    height: 100px;
+    width: 100px;
+    border: solid 5px white;
+    border-radius: 50%;
+    position: absolute;
+    top: 550px;
+    left: 440px;
+    z-index: 1;
+}
+
+.mnb {
+    height: 70px;
+    width: 70px;
+    background-color: #edab0c;
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.mnb h6{
+    font-size: 19px;
+    color: #000000;
+    font-weight: 800;
+    font-style: italic;
+    font-family: "Open Sans";
+   padding-top: 10px;
+    margin-left: 10px;
+}
+.abc{
+    height: 35px;
+    width: 35px;
+    background-color: #fff;
+    position: absolute;
+    top: 550px;
+    left: 440px;
+    border-radius: 50%;
+    z-index: 1;
+}

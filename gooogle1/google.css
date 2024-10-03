@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: url(./andrew-kliatskyi-ZV79vhL6ppk-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    margin-top: 0;
+    position: relative;
+}
+
+.div1 h1 {
+    color: #fff;
+    font-size: 90px;
+    margin-left: 39%;
+    padding-top: 15%;
+}
+
+.div1 input {
+    height: 40px;
+    width: 650px;
+    margin-left: 30%;
+    margin-top: 40px;
+    border-radius: 25px;
+    border: none;
+    position: relative;
+    box-shadow: 0px 2px 2px 0px rgba(255, 255, 255, 0.623);
+    border: solid rgb(240, 240, 240);
+}
+
+
+.img2 {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.fa-solid {
+    color: #fff;
+    color: #fff;
+    top: 35px;
+    right: 100px;
+    position: absolute;
+}
+
+.nimisha {
+    color: #fff;
+    color: #fff;
+    top: 3px;
+    right: 45px;
+    position: absolute;
+}
+
+.div2 {
+    float: right;
+}
+
+.div2 a {
+    position: absolute;
+    top: 35px;
+    right: 200px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.ni {
+    position: absolute;
+    top: 1px;
+    right: 70px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.nimisha1 {
+    position: absolute;
+    top: 43%;
+    left: 37%;
+    color: rgb(0, 0, 0);
+    z-index: 1;
+}
+
+.icon i {
+    position: absolute;
+    color: #000000;
+    top: 47%;
+    left: 60%;
+}
+.icon1 i{
+    position: absolute;
+    color: #000000;
+    top: 47%;
+    left: 62%;
+}
